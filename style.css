@@ -128,6 +128,8 @@ p{
     background-color: white;
     max-width: 140px;
     width: 70%;
+    color: black;
+    font-weight: 700;
 }
 .btn:hover,
 .btn:focus{
@@ -178,17 +180,6 @@ color:rgb(0, 0, 0)}
 
     .card-lux{
         border-radius: 0 20px  20px 0;
-    }
-
-    .btn{
-        margin-top: 20px;
-        text-decoration: none;
-        padding: 12px 0;
-        text-align: center;
-        border-radius: 30px;
-        background-color: white;
-        max-width: 120px;
-        width: 60%;
     }
 
     img:hover{
